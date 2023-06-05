@@ -120,8 +120,8 @@ export default function Footer() {
 
   {/* <!-- Copyright --> */}
   <div className="text-center p-4 footerName" style={{backgroundColor:"rgba(0, 0, 0, 0.025)"}}>
-    © 2021 Copyright:
-    <span className="text-reset fw-bold" style={{textDecoration:"none"}}>By Rajveer Singh</span>
+    Made by: 
+    <Link to="https://rajveersidhu.vercel.app"><span className="text-reset fw-bold" style={{textDecoration:"none"}}>By 💞 Rajveer Singh</span></Link>
   </div>
   {/* <!-- Copyright --> */}
 </footer>
